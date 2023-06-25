@@ -11,7 +11,7 @@ This is a Node.js application that allows users to write and save notes. This ap
 
 ## Usage
 
-1. Click the link to the deployed website: ()
+1. Click the link to the deployed website: (https://evenbetternotetaker-aa51b7837a68.herokuapp.com/)
 2. When you open the Note Taker, you will be presented with a landing page that displays a link to a notes page. Click on the link to navigate to the notes page.
 3. On the notes page, you will see two columns. The left-hand column displays the existing notes, and the right-hand column contains empty fields to enter a new note title and the note's text.
 4. To create a new note, enter the desired title and text in the input fields on the right-hand column.
