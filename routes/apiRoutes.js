@@ -44,3 +44,5 @@ router.delete("/notes/:id", (req, res) => {
     // return the new notes array to the client
     res.json(notes);
 });
+
+module.exports = router;
